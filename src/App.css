@@ -1,12 +1,7 @@
-:root {
-  --blue: #1e90ff
-}
-
 .action {
   color: #707070;
   text-decoration: none;
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   font-size: 14px;
 }
