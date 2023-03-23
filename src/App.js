@@ -1,10 +1,10 @@
-
+import Sobre from './objects/Sobre/index'
 import './App.css';
 
 function App() {
   return (
     <div>
-      <a href='' className='action'>Sobre</a>
+      <Sobre />
     </div>
     
   );
