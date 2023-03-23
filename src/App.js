@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+
 import './App.css';
+import './generic/reset.css'
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <a href='' className='action'>Sobre</a>
     </div>
+    
   );
 }
 
