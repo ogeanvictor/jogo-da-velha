@@ -4,9 +4,7 @@ import './styles.css'
 
 const Sobre = () => {
   return (
-    <div>
-         <a href='' className='sobre'>Sobre</a>
-    </div>
+    <a href='#sobre' className='sobre'>Sobre</a>
   )
 }
 
