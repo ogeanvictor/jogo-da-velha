@@ -1,11 +1,16 @@
-.action {
-  color: #707070;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 14px;
+.app {
+  text-align: center;
 }
 
-div {
-  background-color: var(--blue);
+.app > .header {
+  margin: 0 auto 85px;
+  width: 90vw;
 }
+
+.app > .card {
+  box-sizing: border-box;
+  display: inline-block;
+  width: 90vw;
+  height: 90vw;
+}
+
